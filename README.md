@@ -1,1 +1,4 @@
 # Crowdfunding-ETL
+
+## Project Overview/Purpose
+Independent Funding is a platform for crowdfunding. As it grows, it is used for funding independent projects or ventures. When the company received a new dataset containing information about backers who have pledged to live projects, I was tasked in performing an ETL process on the new dataset and a data analysis using SQL queries. The extracting and transforming phase was done using Python, Pandas, and Jupyter notebooks. For said phases, the backers' contact information will be extracted and transformed to create a DataFrame that will later be exported as a CSV file. Following that will be the loading phase, where a new table will be created and uploaded as a new CSV file containing the backers' information. Finally, an analysis will be done using SQL queries.
